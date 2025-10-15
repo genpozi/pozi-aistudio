@@ -1,0 +1,4 @@
+# Workflow Catalog Data
+*.db
+workflows/
+!.gitignore

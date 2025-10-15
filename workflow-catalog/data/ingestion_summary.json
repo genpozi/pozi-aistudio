@@ -1,0 +1,21 @@
+{
+  "total_workflows": 97,
+  "categories": {
+    "AI & Machine Learning": 61,
+    "Data & Analytics": 28,
+    "Business & Productivity": 4,
+    "Utilities & Tools": 4
+  },
+  "difficulties": {
+    "beginner": 27,
+    "intermediate": 62,
+    "advanced": 8
+  },
+  "compatibility_statuses": {
+    "requires_external": 78,
+    "fully_compatible": 13,
+    "partially_compatible": 6
+  },
+  "local_ai_workflows": 26,
+  "avg_nodes_per_workflow": 22.7
+}
